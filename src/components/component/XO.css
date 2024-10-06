@@ -1,0 +1,51 @@
+.xo{
+    color: red;
+}
+.container{
+    text-align: center;
+}
+.Title{
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 11px;
+}
+.Title span{
+    color: aqua;
+    
+}
+.reset {
+    width: 200px;
+    height: 80px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background:#1f3540;
+    font-size: 26px;
+    color: aqua;
+    margin-top: -35px;
+    margin-bottom: 200px;
+}
+.boxes{
+     display: flex;
+     height: 160px;
+     width: 160px;
+     background: #181d1f;
+     border: 4px solid rgb(16, 17, 16);
+     border-radius: 12opx ;
+     cursor: pointer;
+}
+.board{
+    height: 600px;
+    width: 564px;
+    display: flex;
+    margin: auto;
+}
+  button{
+   margin-left: -4%;
+   margin-top: 30%;
+   
+}
